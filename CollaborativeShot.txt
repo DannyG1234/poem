@@ -8,3 +8,4 @@ Now that gits becoming clear.
 There was a huge list of commands here,
 but now I see there's nothing to fear.
 
+CONFLICT TEST
