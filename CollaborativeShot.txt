@@ -9,3 +9,8 @@ There was a huge list of commands here,
 but now I see there's nothing to fear.
 
 CONFLICT TEST
+
+This tripped my git out I am scared
+Saving lines is a big deal, dear.
+Just learnt another big command
+And might use it all the time.
