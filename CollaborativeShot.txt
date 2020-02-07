@@ -2,3 +2,9 @@ I will start creating this
 You can join whenever you feel fits
 Let's see how this thing unfolds
 And learn to use Git once and for all
+
+Starting was a good idea,
+Now that gits becoming clear.
+There was a huge list of commands here,
+but now I see there's nothing to fear.
+
